@@ -1,0 +1,12 @@
+Arrays –
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Refere
+nce/Global_Objects/Array
+
+Objetos –
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/
+Working_with_Objects
+
+Desestruturação –
+https://www.digitalocean.com/community/tutorials/understandi
+ng-destructuring-rest-parameters-and-spread-syntax-in-javascript
+-pt
